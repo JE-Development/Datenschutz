@@ -1,0 +1,5 @@
+Datenschutzerklärung von EierML
+
+Es werden von Nutzer keine Persönlichen Daten jeglicher Art gesammelt
+
+Hinter der App existiert kein Server welcher Daten von der App oder Nutzerdaten speichert
